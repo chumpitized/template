@@ -1,0 +1,15 @@
+target/
+.idea/
+.bsp/
+# vim
+*.sw?
+.vscode/
+.metals/
+.bloop/
+project/project/
+project/metals.sbt
+
+# Ignore [ce]tags files
+tags
+
+.DS_Store
